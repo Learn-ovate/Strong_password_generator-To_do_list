@@ -9,4 +9,4 @@ our team member are..
       Vishwas Patel : 2nd year computer
       Sagar Pandav  : 2nd year computer
       Abhishek Singadiya  : 1st year computer
-      Abhishek Parmar : 2nd yer computer
+      Abhishek Parmar : 2nd year computer
