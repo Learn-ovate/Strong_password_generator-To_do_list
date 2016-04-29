@@ -1,8 +1,8 @@
 # Strong_password_generator-To_do_list
 
-We have created password generator with c++(Still in progress)
-and 
-Working on To do list with c++ and qt
+our project
+1 : To do list in c++ with GUI programming.
+2 : A strong password generator program.
 
 our team member are..
       Dishita(Head) : 2nd year computer 
